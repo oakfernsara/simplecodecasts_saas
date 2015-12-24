@@ -9,6 +9,17 @@
     text-align: center;
 }
 
+/*users show page styles */
+.user-show-avatar {
+    height: 128px;
+    width: 128px;
+}
+
+/* users index page stypes */
+.user-index-avatar {
+    border-radius: 50%;
+}
+
 .well.profile-block {
     color:#fff;
     h3 {
@@ -25,3 +36,8 @@
     background-color: #5bc0de;
     border-color: #46b8da;
 }
+
+.well.white-bg {
+    background-color:#fff;
+}
+
